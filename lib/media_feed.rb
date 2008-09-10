@@ -4,7 +4,7 @@ The media_feed library parses a media rss stream and stores the information in i
 Fetch a whole feed
     media_feed = MediaFeed::Feed.new('http://www.nasa.gov/rss/NASAcast_vodcast.rss ')
     media_feed.fetch
-Fetch starting at a certain date (date must be in RFC2822 format - use Time.rfc2822 of ActiveSupport)
+Fetch starting at a certain date (date must be in RFC2822 format - use Time.rfc2822)
     media_feed = MediaFeed::Feed.new('http://www.nasa.gov/rss/NASAcast_vodcast.rss ')
     media_feed.fetch_since("Wed, 10 Sep 2008 10:29:18 +0200")
 Use the retrieved information
