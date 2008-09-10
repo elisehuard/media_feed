@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.pirillo.com/~d/styles/rss2enclosuresfull.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.pirillo.com/~d/styles/itemcontent.css" type="text/css" media="screen"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>The Chris Pirillo Show</title>
+	
+	<link>http://chris.pirillo.com</link>
+	<description>Technology, Science, and Entertainment - that's the Chris Pirillo Show! We bring the world's most interesting stories and personalities straight to your ears - blending information with humor in every byte-sized segment. We're answering your tech questions every day!</description>
+	<pubDate>Mon, 08 Sep 2008 07:22:01 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.6</generator>
+	<language>en</language>
+		<!-- podcast_generator="podPress/8.8" -->
+		<copyright>(c) 2006-2007, Chris Pirillo</copyright>
+		<managingEditor>chris@pirillo.com (Chris Pirillo)</managingEditor>
+		<webMaster>chris@pirillo.com(Chris Pirillo)</webMaster>
+		<category>media</category>
+		<ttl>1440</ttl>
+		<itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords>
+		<itunes:subtitle>Free Tech Support</itunes:subtitle>
+		<itunes:summary>Looking for computer help? Technology advice? You've subscribed to the right community. Every day, we stream useful information to you on the Web - and this podcast contains the "best of" segments from live.pirillo.com. You can be a part of the next show!</itunes:summary>
+		<itunes:author>Chris Pirillo</itunes:author>
+		
+
+
+		
+		<itunes:block>No</itunes:block>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://media.thechrispirilloshow.com/images/cps_albumart_rss.jpg" />
+		<image><link>http://chris.pirillo.com/media/</link><url>http://media.thechrispirilloshow.com/images/cps_albumart_rss.jpg</url><title>The Chris Pirillo Show</title></image>
+		<media:copyright>(c) 2006-2007, Chris Pirillo</media:copyright><media:thumbnail url="http://media.thechrispirilloshow.com/images/cps_albumart_rss.jpg" /><media:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Gadgets</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education/Training</media:category><itunes:owner><itunes:email>chris@pirillo.com</itunes:email><itunes:name>Chris Pirillo</itunes:name></itunes:owner><itunes:category text="Technology" /><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets" /></itunes:category><itunes:category text="Education"><itunes:category text="Training" /></itunes:category><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.pirillo.com/ChrisPirilloShow" type="application/rss+xml" /><feedburner:emailServiceId>426494</feedburner:emailServiceId><feedburner:feedburnerHostname>http://www.feedburner.com</feedburner:feedburnerHostname><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.pirillo.com%2FChrisPirilloShow" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.pirillo.com%2FChrisPirilloShow" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.pirillo.com%2FChrisPirilloShow" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.pirillo.com%2FChrisPirilloShow" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.pirillo.com%2FChrisPirilloShow" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.pirillo.com%2FChrisPirilloShow" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://odeo.com/listen/subscribe?feed=http%3A%2F%2Ffeeds.pirillo.com%2FChrisPirilloShow" src="http://odeo.com/img/badge-channel-black.gif">Subscribe with ODEO</feedburner:feedFlare><feedburner:feedFlare href="http://www.podnova.com/add.srf?url=http%3A%2F%2Ffeeds.pirillo.com%2FChrisPirilloShow" src="http://www.podnova.com/img_chicklet_podnova.gif">Subscribe with Podnova</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.pirillo.com%2FChrisPirilloShow" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:browserFriendly>Technology, Science, and Entertainment - that?s the Chris Pirillo Show! We bring the world?s most interesting stories and personalities straight to your ears - blending information with humor in every byte-sized segment.</feedburner:browserFriendly><item>
+		<title>What Information Should You Put in a Social Profile?</title>
+		<link>http://chris.pirillo.com/2008/09/07/what-information-should-you-put-in-a-social-profile/</link>
+		<comments>http://chris.pirillo.com/2008/09/07/what-information-should-you-put-in-a-social-profile/#comments</comments>
+		<pubDate>Mon, 08 Sep 2008 04:33:11 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[avatar]]></category>
+
+		<category><![CDATA[geeks-pirillo-com]]></category>
+
+		<category><![CDATA[profile]]></category>
+
+		<category><![CDATA[social-network]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8110</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+When you build a profile for yourself on a social networking site, do you put much thought into it? (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/WGK99sM92Ow"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/WGK99sM92Ow" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>When you build a profile for yourself on a social networking site, do you put much thought into it? Do you take the time to really make it stand out, and reflect who you really are? You should, you know. Your profile on sites such as my new <a href="http://geeks.pirillo.com">Geeks</a> site can make or break you if you don&#8217;t follow tips like these.</p>
+<ol>
+<li><strong>Be YOU.</strong> Be honest, be descriptive, be straightforward, be humorous. The more someone looks at your profile and learns about who you are, the more likely they will be to stick around and follow you. </li>
+<li><strong>Watch what you say.</strong> Remember your PUGS. Watch your grammar, usage, and punctuation. Use your <strong>SHIFT</strong> key to capitalize the first word of every sentence (and proper nouns). Remember that the sentence usually ends with a period&#8230; or some type of punctuation.  </li>
+<li><strong>Make it look like you.</strong> Customize your theme to your liking. Drag elements around, include an RSS feed, embed photos, videos, widgets, and so on. On <a href="http://geeks.pirillo.com">Geeks</a>, you can customize many things in your profile, such as the colors, what&#8217;s included, etc.</li>
+<li><strong>Do something different.</strong> Why would someone want to add you as a friend? What are you doing to evoke a response, other than asking for it directly? What&#8217;s going to make people want to connect with you? </li>
+<li><strong>Avatar.</strong> Your avatar must be family-friendly. The picture needs to be square, and 183&#215;183 pixels works best. If your image is larger than that, the site will automatically resize it for you, and your avatar could end up looking bad. </li>
+</ol>
+<p>People are saying that Geeks is like a cross between MySpace and Facebook. We&#8217;re geared towards Geeks, though! We&#8217;re trying to do something different, although it&#8217;s still a social networking type of site. </p>
+<p>What kind of Geek are you? You do realize you don&#8217;t have to be a computer Geek in order to join us, right? If you are passionate about something, then you are a Geek. You can be a music Geek, a motorcycle Geek, or even a toothbrush Geek! Come check us out. I guarantee you&#8217;ll find something to grab your interest, and keep you coming back. </p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/TRUEGURU/'>Social Networking On Squidoo.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/LENSFLIP/'>Flip That Lens On Squidoo For Pure Profit!</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-WhatInformationShouldYouPutInASocialProfile769.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/WGK99sM92Ow&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/WGK99sM92Ow&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/09/07/whats-the-best-way-to-write-a-forum-or-blog-post/" title="What&#8217;s the Best Way to Write a Forum or Blog Post?">What&#8217;s the Best Way to Write a Forum or Blog Post?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/do-you-need-community-group-leader-tips/" title="Do You Need Community Group Leader Tips?">Do You Need Community Group Leader Tips?</a></li>
+<li><a href="http://chris.pirillo.com/2008/08/08/where-do-you-keep-your-social-profile/" title="Where do You Keep Your Social Profile?">Where do You Keep Your Social Profile?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/28/what-is-plurk/" title="What is Plurk?">What is Plurk?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/24/how-do-you-update-your-friends-with-whats-happening-now/" title="How do You Update your Friends with what&#8217;s Happening Now?">How do You Update your Friends with what&#8217;s Happening Now?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/18/who-owns-your-comments/" title="Who Owns your Comments?">Who Owns your Comments?</a></li>
+<li><a href="http://chris.pirillo.com/2008/05/20/are-personal-home-pages-and-blogs-dying/" title="Are Personal Home Pages and Blogs Dying?">Are Personal Home Pages and Blogs Dying?</a></li>
+<li><a href="http://chris.pirillo.com/2008/05/20/is-your-avatar-a-gravatar/" title="Is your Avatar a Gravatar?">Is your Avatar a Gravatar?</a></li>
+<li><a href="http://chris.pirillo.com/2008/04/23/how-do-you-choose-to-use-twitter/" title="How do you Choose to use Twitter?">How do you Choose to use Twitter?</a></li>
+<li><a href="http://chris.pirillo.com/2008/04/21/how-do-you-keep-up-with-all-your-comments/" title="How do you Keep up with all Your Comments?">How do you Keep up with all Your Comments?</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/07/what-information-should-you-put-in-a-social-profile/">What Information Should You Put in a Social Profile?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=URtXPQ"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=URtXPQ" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=xCfjL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=xCfjL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=6LL8l"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=6LL8l" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/07/what-information-should-you-put-in-a-social-profile/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-WhatInformationShouldYouPutInASocialProfile769.mp4" length="11916926" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-WhatInformationShouldYouPutInASocialProfile769.mp4" fileSize="11916926" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>What’s the Best Way to Write a Forum or Blog Post?</title>
+		<link>http://chris.pirillo.com/2008/09/07/whats-the-best-way-to-write-a-forum-or-blog-post/</link>
+		<comments>http://chris.pirillo.com/2008/09/07/whats-the-best-way-to-write-a-forum-or-blog-post/#comments</comments>
+		<pubDate>Mon, 08 Sep 2008 04:16:16 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[blog]]></category>
+
+		<category><![CDATA[content]]></category>
+
+		<category><![CDATA[forum]]></category>
+
+		<category><![CDATA[geeks-pirillo-com]]></category>
+
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8108</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+If you&amp;#8217;re looking to write on Geeks or any other site, you need to make sure you create good content. (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/Xrz6bokU7sU"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Xrz6bokU7sU" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>If you&#8217;re looking to write on <a href="http://geeks.pirillo.com">Geeks</a> or any other site, you need to make sure you create good content. There are many factors involved in this process. I&#8217;ve written out my top five points to keep in mind, to help you get started.  </p>
+<ol>
+<li><strong>Lead with a strong headline.</strong> Sometimes it&#8217;s a leading question, sometimes it&#8217;s a statement that pulls people into reading what&#8217;s inside. Single words or simple phrases are to be avoided in a headline if at all possible.</li>
+<li><strong>Remember your PUGS</strong> PUGS is: Punctuation, Usage, Grammar, Spelling. This isn&#8217;t a text message, and it isn&#8217;t a Twitter post.</li>
+<li><strong>Don&#8217;t just ask a simple question.</strong> If you want responses, spend a great degree of time crafting your position in the matter. If anything, this is why I always like to do &#8220;top 5 lists&#8221; - people love digesting well thought-out bullet points. If you&#8217;re covering a news story or product launch, what about some photos, videos, original text. Never copy someone else&#8217;s content - especially without permission. Quote your sources.</li>
+<li><strong>Use others</strong> If other community members have started threads that are active and/or relevant to what you&#8217;re going to write about, link to them! It&#8217;s cross-discovery, not a competition.</li>
+<li><strong>Own it.</strong> You can write about anything, just own what you say. Don&#8217;t treat opinions like facts, and vice versa. If something is a rumor, <strong>TREAT IT</strong> as a rumor.</li>
+</ol>
+<p>Write about what you know, and what you&#8217;re passionate about. Your words equal your identity online. It&#8217;s imperative you take the time to know what you&#8217;re writing, and why. By writing well thought-out content, you will build a following. People with similar interests will gravitate to you, and want to know what you have to say.<br />
+
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/WPAFFPRO/'>Wp Affiliate Pro - The #1 Plugin For WordPres Blogs.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/SEOSNIPER/'>WordPress Seo Sniper.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/FREESECRET/'>Web 2.0 Wealth System - Profitale WordPress For Everyone.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-WhatsTheBestWayToWriteAForumOrBlogPost645.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/Xrz6bokU7sU&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/Xrz6bokU7sU&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/05/05/steal-my-content-with-permission-and-credit/" title="Steal my Content - with Permission and Credit">Steal my Content - with Permission and Credit</a></li>
+<li><a href="http://chris.pirillo.com/2008/02/11/how-to-build-an-internet-community/" title="How to Build an Internet Community">How to Build an Internet Community</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/how-can-you-be-an-awesome-commenter/" title="How Can You be an Awesome Commenter?">How Can You be an Awesome Commenter?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/todays-top-five-geeks-posts/" title="Todays&#8217; Top Five Geeks Posts">Todays&#8217; Top Five Geeks Posts</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/what-information-should-you-put-in-a-social-profile/" title="What Information Should You Put in a Social Profile?">What Information Should You Put in a Social Profile?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/do-you-need-community-group-leader-tips/" title="Do You Need Community Group Leader Tips?">Do You Need Community Group Leader Tips?</a></li>
+<li><a href="http://chris.pirillo.com/2008/07/29/can-you-rhyme-all-the-time-on-a-dime/" title="Can You Rhyme all the Time on a Dime?">Can You Rhyme all the Time on a Dime?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/18/who-owns-your-comments/" title="Who Owns your Comments?">Who Owns your Comments?</a></li>
+<li><a href="http://chris.pirillo.com/2008/05/20/are-personal-home-pages-and-blogs-dying/" title="Are Personal Home Pages and Blogs Dying?">Are Personal Home Pages and Blogs Dying?</a></li>
+<li><a href="http://chris.pirillo.com/2008/04/24/why-would-someone-want-to-blog-about-magpies/" title="Why Would Someone Want to Blog about Magpies?">Why Would Someone Want to Blog about Magpies?</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/07/whats-the-best-way-to-write-a-forum-or-blog-post/">What&#8217;s the Best Way to Write a Forum or Blog Post?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=DN3RBZ"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=DN3RBZ" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=1MnZL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=1MnZL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=d75jl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=d75jl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/07/whats-the-best-way-to-write-a-forum-or-blog-post/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-WhatsTheBestWayToWriteAForumOrBlogPost645.mp4" length="9470657" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-WhatsTheBestWayToWriteAForumOrBlogPost645.mp4" fileSize="9470657" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>Do You Need Community Group Leader Tips?</title>
+		<link>http://chris.pirillo.com/2008/09/07/do-you-need-community-group-leader-tips/</link>
+		<comments>http://chris.pirillo.com/2008/09/07/do-you-need-community-group-leader-tips/#comments</comments>
+		<pubDate>Mon, 08 Sep 2008 03:56:47 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[Community]]></category>
+
+		<category><![CDATA[geeks-pirillo-com]]></category>
+
+		<category><![CDATA[group-leader]]></category>
+
+		<category><![CDATA[groups]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8106</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+After only a few days, we have well over 2,000 members on the new Geeks community site! (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/Et836DIzjfA"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Et836DIzjfA" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>After only a few days, we have well over 2,000 members on the new <a href="http://geeks.pirillo.com">Geeks</a> community site! We&#8217;re growing like crazy, and many excellent groups and discussions are popping up. There are, of course, the occasional group that we need to delete, or even duplicates to get rid of. What constitutes a good group, anyway? How can you successfully lead your own community group?</p>
+<ol>
+<li><strong>Search for a group keyword before you start your own.</strong> Otherwise, you&#8217;re splitting the community instead of uniting it. If you&#8217;ve already started a group, this is very counter-productive.</li>
+<li><strong>Create a group if you believe a group is worth creating.</strong> Otherwise, you&#8217;re wasting space and time with the effort (and wonder why nobody wants to join or participate).</li>
+<li><strong>Fill that group with useful content.</strong> Dedicate time out of your day to post news links, start discussions, embed videos, audio, widgets, and photos related to the group&#8217;s shared interest.</li>
+<li><strong>Turn on the RSS Reader</strong> Include an RSS feed to automatically populate the Group with relevant content. If you don&#8217;t know what an RSS feed is, you&#8217;re not a geek.</li>
+<li><strong>Use a Web site relevant to the Group.</strong> Don&#8217;t use your personal website, just to try and drive traffic to yourself. Only use your own site if it&#8217;s full of content that is regularly update, all of which is directly related to your group. </li>
+<li><strong>Spamming the link to it is a bad idea.</strong>  Let it grow organically. Find friends outside the Geeks network to join, and you&#8217;re likely to see membership flourish. Think about all the other communities and groups on the Web that you&#8217;re involved in - tell them about it there. This is your chance to lead a Group related to your passion - that&#8217;s what makes you a geek!</li>
+<li><strong>Please add me as an Admin for your group.</strong> Right now, the system won&#8217;t do it automatically. This way, I can make adjustments without having to ask you first. It&#8217;s a current shortcoming to the platform we&#8217;re using for Geeks today.</li>
+<li><strong>My suggestion is to turn off the ability for members to send messages to the entire group.</strong> Spamming is going to dissuade people from coming back, not encourage them.</li>
+<li><strong>If you&#8217;re an administrator for a group, use spell check and your shift key when appropriate.</strong> Nothing turns me off more than poor grammar, usage, punctuation, etc. I will not join a group that&#8217;s lead by someone who does not have command of his or her native language.</li>
+<li><strong>Keep it civil, especially as a Group administrator.</strong> It&#8217;s your responsibility to maintain balance and decorum. If you can&#8217;t handle this responsibility, <strong>DON&#8217;T CREATE A GROUP</strong>.
+</ol>
+<p><a href="http://geeks.pirillo.com">Geeks</a> is shaping up to be an amazing community, full of some awesome people. If you&#8217;re already a member, have fun! If you&#8217;re not&#8230; what the heck are you waiting for? You&#8217;re missing out!</p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/BOUNDLESS/'>Learn To Find Commercial Real Estate Deals And We Will Fund Them.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/PSGROUP1/'>Paid Survey Group, Home Business Programs, Wholesale Lists, Money Jobs.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/USPUB/'>Worldquest Business Group.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-DoYouNeedCommunityGroupLeaderTips351.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/Et836DIzjfA&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/Et836DIzjfA&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/09/07/what-information-should-you-put-in-a-social-profile/" title="What Information Should You Put in a Social Profile?">What Information Should You Put in a Social Profile?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/whats-the-best-way-to-write-a-forum-or-blog-post/" title="What&#8217;s the Best Way to Write a Forum or Blog Post?">What&#8217;s the Best Way to Write a Forum or Blog Post?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/04/where-do-you-meet-geeks/" title="Where Do You Meet Geeks?">Where Do You Meet Geeks?</a></li>
+<li><a href="http://chris.pirillo.com/2008/04/06/twitter-in-live-video/" title="Twitter in Live Video">Twitter in Live Video</a></li>
+<li><a href="http://chris.pirillo.com/2008/02/11/how-to-build-an-internet-community/" title="How to Build an Internet Community">How to Build an Internet Community</a></li>
+<li><a href="http://chris.pirillo.com/2008/01/16/be-a-good-youtube-viewer/" title="Be a Good YouTube Viewer">Be a Good YouTube Viewer</a></li>
+<li><a href="http://chris.pirillo.com/2007/10/21/user-generated-contentedness/" title="User Generated Contentedness">User Generated Contentedness</a></li>
+<li><a href="http://chris.pirillo.com/2006/10/16/an-undotv-update/" title="An UndoTV Update">An UndoTV Update</a></li>
+<li><a href="http://chris.pirillo.com/2006/08/14/techtv-undotv/" title="TechTV = UndoTV">TechTV = UndoTV</a></li>
+<li><a href="http://chris.pirillo.com/2006/08/04/digg-is-worth-more-than-60m/" title="Digg is Worth More than $60m">Digg is Worth More than $60m</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/07/do-you-need-community-group-leader-tips/">Do You Need Community Group Leader Tips?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=bxl3Cx"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=bxl3Cx" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=rcGNL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=rcGNL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=fEXSl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=fEXSl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/07/do-you-need-community-group-leader-tips/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-DoYouNeedCommunityGroupLeaderTips351.mp4" length="14503263" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-DoYouNeedCommunityGroupLeaderTips351.mp4" fileSize="14503263" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>Should Search Engines be Community Driven?</title>
+		<link>http://chris.pirillo.com/2008/09/07/should-search-engines-be-community-driven/</link>
+		<comments>http://chris.pirillo.com/2008/09/07/should-search-engines-be-community-driven/#comments</comments>
+		<pubDate>Mon, 08 Sep 2008 03:03:26 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[google]]></category>
+
+		<category><![CDATA[mse360]]></category>
+
+		<category><![CDATA[search]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8104</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+If you Google the word Chris, you will find me. If you&amp;#8217;re not in Google, you&amp;#8217;re just not there. Where do you go to search? (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/ZItwe79mABw"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/ZItwe79mABw" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>If you Google the word Chris, you will find me. If you&#8217;re not in Google, you&#8217;re just not there. Where do you go to search? Do you only use one search engine, or does it depend on what you&#8217;re looking for? Do you ever try any others? Have you thought about giving <a href="http://mse360.com/">MSE360</a> a try?</p>
+<blockquote><p>
+We know getting used to new search formats can be hard, everyone who has worked on MSE360 has used Google an awful lot, never the less there are clear limitations in the single result | ad format. When you search with MSE360 you’re presented with a 3 column layout. This layout allows us to provide you with Blogs, Wikipedia, Web and images all on one page. You can also select between standard results and job results using the top of the page. We&#8217;ve designed the layout to be easy on the eyes, so let us know what you think!</p>
+<p>Search is important in a search engine, that&#8217;s why we have used the best providers in the industry. Along with our own algorithmic system. The more a user clicks on certain websites the higher that site will rank. We&#8217;ve put in placed certain precautions to avoid anyone using this system to gain unfair advantages.</p>
+<p>We know you&#8217;ve heard so many companies promise to stay true to there values, but we really do. Without you, our visitors we would just be a dump of boring code. Our main goal is to please you, and as a result we hope you will visit as again. Profit comes after success, not the other way around. Below is a simplistic explanation of MSE360&#8217;s values.
+</p></blockquote>
+<p>MSE360 is a good alternative to Google and other search engines, especially since it&#8217;s better than many resources out there at the time. It is fast, and it is comprehensive. Competition is a healthy thing. </p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/ZAMOLXIS/'>Keyword Research Genius.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/NRR2008/'>Niche Research Revolution.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/R4PROFIT/'>Research 4 Profit.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-ShouldSearchEnginesBeCommunityDriven769.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/ZItwe79mABw&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/ZItwe79mABw&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/07/06/is-this-the-worlds-best-metasearch-site/" title="Is This the World&#8217;s Best Metasearch Site?">Is This the World&#8217;s Best Metasearch Site?</a></li>
+<li><a href="http://chris.pirillo.com/2008/03/03/get-your-google-on/" title="Get Your Google On!">Get Your Google On!</a></li>
+<li><a href="http://chris.pirillo.com/2007/12/07/google-tips/" title="Google Tips">Google Tips</a></li>
+<li><a href="http://chris.pirillo.com/2007/11/08/how-to-track-things-on-google/" title="How to Track Things on Google">How to Track Things on Google</a></li>
+<li><a href="http://chris.pirillo.com/2007/08/28/is-seo-good-or-bad/" title="Is SEO Good or Bad?">Is SEO Good or Bad?</a></li>
+<li><a href="http://chris.pirillo.com/2007/08/28/2-or-more-gb-of-ram-for-memory/" title="2 or More GB of Ram for Memory">2 or More GB of Ram for Memory</a></li>
+<li><a href="http://chris.pirillo.com/2006/06/06/google-search-results-link-crap/" title="Google Search Results Link Crap">Google Search Results Link Crap</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/03/what-are-your-google-chrome-web-browser-tips-and-tricks/" title="What are Your Google Chrome Web Browser Tips and Tricks?">What are Your Google Chrome Web Browser Tips and Tricks?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/03/do-you-think-google-chrome-is-just-another-web-browser/" title="Do You Think Google Chrome is Just Another Web Browser?">Do You Think Google Chrome is Just Another Web Browser?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/03/will-google-chrome-change-the-web-world/" title="Will Google Chrome Change the Web World?">Will Google Chrome Change the Web World?</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/07/should-search-engines-be-community-driven/">Should Search Engines be Community Driven?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=IJgfoL"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=IJgfoL" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=JvjUL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=JvjUL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=yFTWl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=yFTWl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/07/should-search-engines-be-community-driven/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-ShouldSearchEnginesBeCommunityDriven769.mp4" length="10700316" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-ShouldSearchEnginesBeCommunityDriven769.mp4" fileSize="10700316" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>How do You Import Video Signals into Your Computer?</title>
+		<link>http://chris.pirillo.com/2008/09/07/how-do-you-import-video-signals-into-your-computer/</link>
+		<comments>http://chris.pirillo.com/2008/09/07/how-do-you-import-video-signals-into-your-computer/#comments</comments>
+		<pubDate>Mon, 08 Sep 2008 02:51:18 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[eyetv]]></category>
+
+		<category><![CDATA[video-signal]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8102</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+How am I supposed to get VHS and DVD video into my computer? (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/VnAB6xrSPQI"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/VnAB6xrSPQI" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>How am I supposed to get VHS and DVD video into my computer? No matter how I tried to put one of those into the MacBook, it just wouldn&#8217;t go. Wirelesspacket even told me on Vent that I better be careful. Geesh. Who knew it would be so hard to do? Thankfully, I have the <a href="http://www.amazon.com/exec/obidos/ASIN/B000UU7ZTO/lockergnome">EyeTV 250 Plus</a> to save me. </p>
+<blockquote><p>
+EyeTV 250 Plus is a hybrid TV Tuner for the Mac with a powerful hardware encoder for higher quality recordings and smaller sized video files. EyeTV 250 Plus receives both free over-the-air HDTV as well as analog TV, and offers a complete solution for moving your video collection from VHS tape to DVD-Video. EyeTV 250 Plus is future-proof for the upcoming digital TV switch-over in 2009, and is ideal for those who want the flexibility of a digital and analog TV tuner together with a hardware encoder in one device. EyeTV 250 Plus delivers free over-the-air digital TV to your Mac in stunning 720p or 1080i HDTV (MPEG-2) and other digital television standards, as well as conventional analog TV via standard cable or antenna. EyeTV 250 Plus also comes with a break-out cable for composite video and S-Video, enabling you to connect a set-top box directly to your Mac. EyeTV 250 Plus&#8217; powerful hardware encoder also records high quality video from analog sources, compressing audio and video signals to small size MPEG-2 files and freeing up your processor for other activities. MPEG-2 is a premium-quality video compression standard which is the basis for DVD and digital television. Use EyeTV 250 Plus to capture video and convert VHS tapes into high-quality digital files. EyeTV 250 Plus&#8217; easy-to-use VHS Assistant will walk you through each step, from connecting your VCR or camcorder right through to burning a DVD or sending the recording to iTunes. Export clips and entire episodes to your video-capable iPod, Apple TV, and iPhone Store your collection on an external drive, or burn it to disc using Roxio Toast 8 Basic (included) Convert old videotapes to digital files using the VHS Assistant.
+</p></blockquote>
+<p>I needed to pick this up for my recent <a href="http://www.gnomedex.com/" title="Technology Conference" class="alinks_links" target="_blank" rev="Gnomedex">Gnomedex</a> 8.0 conference. The reason I needed it was to be able to take the video feed from the cameras into the MacBook. There aren&#8217;t many video inputs on a Mac, unless you have some kind of conversion card. So I grabbed this EyeTV, which includes a cable to connect it to the MacBook. It also has a hardware encoder built into the machine, so it was as good a quality as it could be. There isn&#8217;t an easier way to get video signal into my Mac. The even better thing is that it will export video signal to an iPod or iPhone. </p>
+<p>I also reviewed the <a href="http://chris.pirillo.com/2007/09/26/speed-up-mp4-video-encoding/">Elgato Turbo.264</a> last year. Basically, this is what sits inside the EyeTV. All around, it&#8217;s a great way to do what I need as far as transferring video signals. It works well, and the only drawback is the unit needing AC power. I wish it was USB  powered. </p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/BATHBIZ2/'>Currency Trading Profits.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/FREEYOUR/'>Forex Power Strategy Course.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/SUBMSSG3/'>Intelligent Warrior Subliminal Video Messages.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-HowDoYouImportVideoSignalsIntoYourComputer237.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/VnAB6xrSPQI&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/VnAB6xrSPQI&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<h3>Random Posts</h3>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2004/05/14/t40404120732100jpg/" title="T40404120732100">T40404120732100</a></li>
+<li><a href="http://chris.pirillo.com/2007/02/05/multiple-monitor-madness/" title="Multiple Monitor Madness">Multiple Monitor Madness</a></li>
+<li><a href="http://chris.pirillo.com/2006/06/23/bob-cox/" title="Bob cox ">Bob cox </a></li>
+<li><a href="http://chris.pirillo.com/2006/09/03/alaska-vacation-help/" title="Alaska Vacation Help">Alaska Vacation Help</a></li>
+<li><a href="http://chris.pirillo.com/2004/05/14/img0711080339593jpg/" title="IMG0711080339593">IMG0711080339593</a></li>
+<li><a href="http://chris.pirillo.com/2007/11/13/microwave-popcorn-taste-test/" title="Microwave Popcorn Taste Test">Microwave Popcorn Taste Test</a></li>
+<li><a href="http://chris.pirillo.com/2005/12/27/popping-a-pimple/" title="Popping a Pimple">Popping a Pimple</a></li>
+<li><a href="http://chris.pirillo.com/2002/06/30/no/" title="No!">No!</a></li>
+<li><a href="http://chris.pirillo.com/2004/11/15/pic11140144jpg/" title="pic11140144">pic11140144</a></li>
+<li><a href="http://chris.pirillo.com/2003/07/11/wireless-geeking/" title="Wireless Geeking">Wireless Geeking</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/07/how-do-you-import-video-signals-into-your-computer/">How do You Import Video Signals into Your Computer?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=YlA2kY"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=YlA2kY" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=jDrzL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=jDrzL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=KvYxl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=KvYxl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/07/how-do-you-import-video-signals-into-your-computer/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-HowDoYouImportVideoSignalsIntoYourComputer237.mp4" length="10445345" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-HowDoYouImportVideoSignalsIntoYourComputer237.mp4" fileSize="10445345" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>How Do You Find Files From Across the Network?</title>
+		<link>http://chris.pirillo.com/2008/09/06/how-do-you-find-files-from-across-the-network/</link>
+		<comments>http://chris.pirillo.com/2008/09/06/how-do-you-find-files-from-across-the-network/#comments</comments>
+		<pubDate>Sat, 06 Sep 2008 12:21:42 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[files]]></category>
+
+		<category><![CDATA[network]]></category>
+
+		<category><![CDATA[searchlight]]></category>
+
+		<category><![CDATA[spotlight]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8093</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+I tried telling Wicket that everything would be fine, and that I had all the information at hand. He just wouldn&amp;#8217;t listen to me. (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/osEpYZGirRM"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/osEpYZGirRM" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>I tried telling Wicket that everything would be fine, and that I had all the information at hand. He just wouldn&#8217;t listen to me. So, I showed him <a href="http://www.apple.com/downloads/macosx/networking_security/searchlight.html">SearchLight</a>. It allows me to access files from all across my network, including ones on my iPhone. </p>
+<blockquote><p>
+Search your Apple computer from all machines in your office, at home and even your iPhone. Expand Spotlight to work online: Searchlight’s, AJAX powered User Interface is designed to make the whole process of finding documents on your computer as simple as possible, no matter where you are on the network. Searchlight brings the power of Spotlight to your entire network, including Windows and Linux users, through a very simple web interface. A recent web browser is all you need. Use SearchLight to search for files with your iPhone. The iPhone interface was built from the ground up to give users the iPhone experience they expect and lets you access your mail archive and office files on the go.
+</p></blockquote>
+<p>I can search for everything, everywhere. Or, I can set up specific folders that I want to look in. I can even list only .pdf&#8217;s or choose to show thumbnails instead of just titles. Wicket just doesn&#8217;t care about the files, he cares about the Optimus Maximus keyboard. </p>
+<p>I can browse all the files in my network in a Web interface. Even if I&#8217;m on the other side of the World, I can access my home network and get ahold of any files I may need on the go. How many times have you had to run across the house, or even drive across town to get a file? Seriously, how much time and even money can you save by using SearchLight? It&#8217;s well worth spending the money, just to save yourself the frustration.</p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/SOUNDPAGES/'>Royalty Free Music Clips & Software.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/ALLIXE/'>Master Mind Power In 9 Weeks.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/PLRSITEB/'>PLRSiteBuilder.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-HowDoYouFindFilesFromAcrossTheNetwork921.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/osEpYZGirRM&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/osEpYZGirRM&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/07/09/troubleshooting-user-network-performance-issues/" title="Troubleshooting User Network Performance Issues">Troubleshooting User Network Performance Issues</a></li>
+<li><a href="http://chris.pirillo.com/2008/07/09/what-tools-do-you-use-for-your-mac-network/" title="What Tools do you use for Your Mac Network?">What Tools do you use for Your Mac Network?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/18/mac-freeware-to-help-you-deal-with-windows-files/" title="Mac Freeware to Help you Deal with Windows Files">Mac Freeware to Help you Deal with Windows Files</a></li>
+<li><a href="http://chris.pirillo.com/2008/05/07/how-and-where-do-you-save-files/" title="How and Where do you Save Files?">How and Where do you Save Files?</a></li>
+<li><a href="http://chris.pirillo.com/2008/04/22/what-do-you-need-for-a-wired-home-network/" title="What do you Need for a Wired Home Network?">What do you Need for a Wired Home Network?</a></li>
+<li><a href="http://chris.pirillo.com/2008/02/08/wireless-networks-hard-drive-failures-web-browsers/" title="Wireless Networks, Hard Drive Failures, Web Browsers">Wireless Networks, Hard Drive Failures, Web Browsers</a></li>
+<li><a href="http://chris.pirillo.com/2008/01/24/how-to-secure-your-wireless-network/" title="How to Secure Your Wireless Network">How to Secure Your Wireless Network</a></li>
+<li><a href="http://chris.pirillo.com/2007/12/03/wireless-routers-review/" title="Wireless Routers Review">Wireless Routers Review</a></li>
+<li><a href="http://chris.pirillo.com/2007/11/10/how-to-erase-files-securely/" title="How to Erase Files Securely">How to Erase Files Securely</a></li>
+<li><a href="http://chris.pirillo.com/2007/11/07/what-is-a-zip-file/" title="What is a ZIP File?">What is a ZIP File?</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/06/how-do-you-find-files-from-across-the-network/">How Do You Find Files From Across the Network?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=TQrGH8"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=TQrGH8" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=h8xpL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=h8xpL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=EFZgl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=EFZgl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/06/how-do-you-find-files-from-across-the-network/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-HowDoYouFindFilesFromAcrossTheNetwork921.mp4" length="7725438" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-HowDoYouFindFilesFromAcrossTheNetwork921.mp4" fileSize="7725438" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>Have You Ever Been on the Cover of a Magazine?</title>
+		<link>http://chris.pirillo.com/2008/09/06/have-you-ever-been-on-the-cover-of-a-magazine/</link>
+		<comments>http://chris.pirillo.com/2008/09/06/have-you-ever-been-on-the-cover-of-a-magazine/#comments</comments>
+		<pubDate>Sat, 06 Sep 2008 11:59:15 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[geeks]]></category>
+
+		<category><![CDATA[magazine-cover]]></category>
+
+		<category><![CDATA[magmypic]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8091</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+Have you ever been on the front cover of a magazine. No, I&amp;#8217;m not talking to you Kate Moss. (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/pi03girIuJc"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/pi03girIuJc" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>Have you ever been on the front cover of a magazine. No, I&#8217;m not talking to you Kate Moss. I&#8217;m talking to my &#8220;normal&#8221; everyday visitors. I&#8217;m guessing none of you have made the cover of any magazine. You may be interested in a resource passed along to me by Josh. Now, you can feature yourself on the cover of any one of several magazines! At <a href="http://www.magmypic.com/">MagMyPic</a>, you can upload your own picture(s), and turn it (them!) into a magazine cover. </p>
+<p>Not only can you create your covers, you can share them with the world, or even buy print gifts for yourself or others. Create a profile and customize it if you want. There are over 50 different covers to choose from, with more on the way.</p>
+<p>Once you have your cover saved, be sure to join us over at the new <a href="http://geeks.pirillo.com">Geeks</a> website. Share your magazine in the very popular <a href="http://geeks.pirillo.com/forum/topic/show?id=2300301%3ATopic%3A22617">MagMyPic thread</a>. We currently have nearly 100 different people who have now posted their cover shots.</p>
+<p>It&#8217;s a lot of fun to imagine yourself on the cover of a magazine. It&#8217;s even <strong>more</strong> fun to join Geeks, and hang out with people just like you. </p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/FERRUGGIA/'>Muscle Gaining Secrets.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/BLAINE1/'>Featured On Entrepreneur Magazine Radio.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/VICMAC12/'>The Mens Grooming Handbook.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-HaveYouEverBeenOnTheCoverOfAMagazine293.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/pi03girIuJc&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/pi03girIuJc&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/09/07/todays-top-five-geeks-posts/" title="Todays&#8217; Top Five Geeks Posts">Todays&#8217; Top Five Geeks Posts</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/04/where-do-you-meet-geeks/" title="Where Do You Meet Geeks?">Where Do You Meet Geeks?</a></li>
+<li><a href="http://chris.pirillo.com/2008/04/07/what-do-girls-want-for-gifts-from-geeks/" title="What do Girls Want as Gifts from Geeks?">What do Girls Want as Gifts from Geeks?</a></li>
+<li><a href="http://chris.pirillo.com/2008/03/19/are-geeks-cool/" title="Are Geeks Cool?">Are Geeks Cool?</a></li>
+<li><a href="http://chris.pirillo.com/2008/02/06/dating-geeks/" title="Dating Geeks">Dating Geeks</a></li>
+<li><a href="http://chris.pirillo.com/2006/11/28/seattle-is-on-fire/" title="Seattle is on Fire!">Seattle is on Fire!</a></li>
+<li><a href="http://chris.pirillo.com/2006/11/17/scobleizing/" title="Scobleizing">Scobleizing</a></li>
+<li><a href="http://chris.pirillo.com/2006/06/29/gnomedex-sex/" title="Gnomedex Sex">Gnomedex Sex</a></li>
+<li><a href="http://chris.pirillo.com/2006/05/30/gnomedex-web-site-overhauled/" title="Gnomedex Web Site Overhauled">Gnomedex Web Site Overhauled</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/06/have-you-ever-been-on-the-cover-of-a-magazine/">Have You Ever Been on the Cover of a Magazine?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=dwQZwk"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=dwQZwk" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=iZJ0L"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=iZJ0L" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=GCfHl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=GCfHl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/06/have-you-ever-been-on-the-cover-of-a-magazine/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-HaveYouEverBeenOnTheCoverOfAMagazine293.mp4" length="4085414" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-HaveYouEverBeenOnTheCoverOfAMagazine293.mp4" fileSize="4085414" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>How Would You Like 1TB of Free Storage Space?</title>
+		<link>http://chris.pirillo.com/2008/09/06/how-would-you-like-1tb-of-free-storage-space/</link>
+		<comments>http://chris.pirillo.com/2008/09/06/how-would-you-like-1tb-of-free-storage-space/#comments</comments>
+		<pubDate>Sat, 06 Sep 2008 11:40:21 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[1TB]]></category>
+
+		<category><![CDATA[backup]]></category>
+
+		<category><![CDATA[oosah]]></category>
+
+		<category><![CDATA[storage]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8089</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+If I offered you a full TeraByte of storage right now with no strings attached, would you take it? Of course you would! (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/rzdOHu60rXg"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/rzdOHu60rXg" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>If I offered you a full TeraByte of storage right now with no strings attached, would you take it? Of course you would! We could all use more storage, right? Heck, you may not even have that much storage in your home, so you could be doubling your capacity. Well then in that case, head over to <a href="http://oosah.com/">Oosah</a>, and take advantage of their free storage!</p>
+<blockquote><p>
+Oosah is a Web-based digital media content hosting and management system. Oosah provides individuals and businesses with an all-in-one service for uploading, hosting, managing and sharing their digital media assets. Members can also use Oosah to create new media assets in the form of multimedia presentations that we call &#8220;oosahs.&#8221;</p>
+<p>First, Oosah is very intuitive and easy to use. Oosah features are accessed using the same drag-and-drop, and keyboard commands that you are familiar with from desktop applications.</p>
+<p>Second, Oosah gives you a full Web-based File Manager. The Oosah File Manager gives you the ability to organize your content better than any other Web 2.0 content hosting site.</p>
+<p>Third we give you more sharing options than any other site. Not only can you share content by emailing, or by linking/embedding in other sites, but you can also podcast your content, or you can download it and burn it to CD/DVD for off-line distribution.</p>
+<p>We even let you print your photos at full resolution on your local printer. There are other features unique to Oosah as well, which you will find as you use it, and more are coming.
+</p></blockquote>
+<p>Store your videos, photos and audio on Oosah. You can even connect your Oosah account to your Flickr and YouTube profiles, to easily share between them. Also, support is coming for MySpace and Photobucket soon. </p>
+<p>You can&#8217;t beat 1TB of storage for free. There&#8217;s even an iPhone interface available now! This is certainly worth a shot. Heck, for free what more could you ever ask for?</p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/SURVEYSTOR/'>Survey Storage - Online Surveys Database.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/BLAINE1/'>Featured On Entrepreneur Magazine Radio.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/MESSAGES/'>Free Password Storage.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-HowWouldYouLike1TBOfFreeStorageSpace581.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/rzdOHu60rXg&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/rzdOHu60rXg&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/03/06/installing-the-time-capsule-for-time-machine/" title="Installing the Time Capsule for Time Machine">Installing the Time Capsule for Time Machine</a></li>
+<li><a href="http://chris.pirillo.com/2008/03/06/apple-timecapsule-unboxing/" title="Apple Time Capsule Unboxing">Apple Time Capsule Unboxing</a></li>
+<li><a href="http://chris.pirillo.com/2008/02/24/time-machine-bug/" title="Time Machine Bug">Time Machine Bug</a></li>
+<li><a href="http://chris.pirillo.com/2008/02/09/time-capsule-for-os-x-time-machine/" title="Time Capsule for OS X Time Machine">Time Capsule for OS X Time Machine</a></li>
+<li><a href="http://chris.pirillo.com/2008/01/09/computer-backup/" title="Computer Backup">Computer Backup</a></li>
+<li><a href="http://chris.pirillo.com/2007/10/04/dealing-with-hard-drives-nas-esata-and-zfs/" title="Dealing with Hard Drives NAS, eSATA, and ZFS">Dealing with Hard Drives NAS, eSATA, and ZFS</a></li>
+<li><a href="http://chris.pirillo.com/2007/08/15/backup-and-file-management/" title="Backup and File Management">Backup and File Management</a></li>
+<li><a href="http://chris.pirillo.com/2007/05/14/data-recovery-software/" title="Data Recovery Software">Data Recovery Software</a></li>
+<li><a href="http://chris.pirillo.com/2007/04/12/how-not-to-recover-data-from-a-vista-backup/" title="How Not to Recover Data from a Vista Backup">How Not to Recover Data from a Vista Backup</a></li>
+<li><a href="http://chris.pirillo.com/2006/06/01/internet-hard-drive/" title="Internet Hard Drive">Internet Hard Drive</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/06/how-would-you-like-1tb-of-free-storage-space/">How Would You Like 1TB of Free Storage Space?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=AHhXxi"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=AHhXxi" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=N8HSL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=N8HSL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=3Vt0l"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=3Vt0l" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/06/how-would-you-like-1tb-of-free-storage-space/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-HowWouldYouLike1TBOfFreeStorageSpace581.mp4" length="6269410" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-HowWouldYouLike1TBOfFreeStorageSpace581.mp4" fileSize="6269410" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>How Do You Share Your Screen with Friends?</title>
+		<link>http://chris.pirillo.com/2008/09/06/how-do-you-share-your-screen-with-friends/</link>
+		<comments>http://chris.pirillo.com/2008/09/06/how-do-you-share-your-screen-with-friends/#comments</comments>
+		<pubDate>Sat, 06 Sep 2008 11:21:51 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[remote-desktop]]></category>
+
+		<category><![CDATA[screen-share]]></category>
+
+		<category><![CDATA[vyew]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8087</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+What do you guys use when you want to share what&amp;#8217;s on your screen with someone who doesn&amp;#8217;t happen to be in the same room? (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/_8tJ1Pt9qwM"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/_8tJ1Pt9qwM" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>What do you guys use when you want to share what&#8217;s on your screen with someone who doesn&#8217;t happen to be in the same room? What if you want to share your screen with up to 20 people from all over the World? And, you don&#8217;t want to spend any money&#8230; then what? What about when you want to add in features like whiteboarding, chat and audio/video? Rishi from Canada sent me a link to <a href="http://vyew.com/site/">Vyew</a>. Vyew is cross-platform, and is free for up to 20 people. You can purchase an upgrade for your business in order to screen conference with more than the allowed 20. </p>
+<blockquote><p>
+With Vyew you can give a presentation to a hundred people online or post a document you&#8217;ve been working on for review by your colleagues at their convenience. Vyew is extremely flexible allowing you to bring online collaboration and conferencing into your workflow on your terms.
+</p></blockquote>
+<p>Vyew has so many features, I can&#8217;t even begin to list them all. It has external publishing capabilities, screen capturing, drawing tools, and even VoIP. So if you ever have a need or desire to share your desktop with others, be sure to check out Vyew. </p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/GOLFERMIKE/'>Real Estate Investors - Discover How To Raise Cash For Re Deals.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/BEST100/'>The Ultimate Source For Practical Creativity.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/724LEADS/'>7/24 Sales Lead Generation.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-HowDoYouShareYourScreenWithFriends395.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/_8tJ1Pt9qwM&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/_8tJ1Pt9qwM&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/02/09/vnc-or-remote-desktop-or-what/" title="VNC or Remote Desktop or What?">VNC or Remote Desktop or What?</a></li>
+<li><a href="http://chris.pirillo.com/2008/01/18/computer-tech-support-with-citrix-gotoassist-beta/" title="Computer Tech Support with Citrix GoToAssist (Beta) ">Computer Tech Support with Citrix GoToAssist (Beta) </a></li>
+<li><a href="http://chris.pirillo.com/2007/11/16/what-is-logmein/" title="What is LogMeIn?">What is LogMeIn?</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/06/how-do-you-share-your-screen-with-friends/">How Do You Share Your Screen with Friends?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=H2eqYT"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=H2eqYT" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=rAsKL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=rAsKL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=X1TQl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=X1TQl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/06/how-do-you-share-your-screen-with-friends/feed/</wfw:commentRss>
+		<enclosure url="http://blip.tv/file/get/L0ckergn0me-HowDoYouShareYourScreenWithFriends395.mp4" length="3888097" type="video/mp4" /><media:content url="http://blip.tv/file/get/L0ckergn0me-HowDoYouShareYourScreenWithFriends395.mp4" fileSize="3888097" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>I Am Ninja. You Are Ninja. We Are Ninja Book.</title>
+		<link>http://chris.pirillo.com/2008/09/06/i-am-ninja-you-are-ninja-we-are-ninja-book/</link>
+		<comments>http://chris.pirillo.com/2008/09/06/i-am-ninja-you-are-ninja-we-are-ninja-book/#comments</comments>
+		<pubDate>Sat, 06 Sep 2008 11:07:19 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[ask-a-ninja]]></category>
+
+		<category><![CDATA[book]]></category>
+
+		<category><![CDATA[ninja]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8085</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+I realize I&amp;#8217;m kind of ruining it for you, but I am the Ask-a-Ninja. You didn&amp;#8217;t know that until now, of course. (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/_7dPAgT8dXM"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/_7dPAgT8dXM" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>I realize I&#8217;m kind of ruining it for you, but I am the Ask-a-Ninja. You didn&#8217;t know that until now, of course. Not really&#8230; that would be someone else. The only way I&#8217;ve been able to embrace my inner Ninja is thanks to Kent and his crew from <a href="http://askaninja.com/">Ask A Ninja</a>. You guys already know who I am. If you don&#8217;t, just Google the word <strong>Chris</strong>. I learned to be a Ninja courtesy of the new book <a href="http://www.amazon.com/exec/obidos/ASIN/030740580X/lockergnome">The Ninja Handbook</a>. </p>
+<blockquote><p>
+After much debate and in a spirit of morbid amusement, the International Order of Ninjas has chosen to produce The Ninja Handbook, the first-ever secret ninja training guide specifically designed for the non-ninja.<br />
+Most non-ninjas who handle these delicate, deadly pages will die–probably in an elaborately horrific and painful manner. But whether your journey lasts five seconds or five days or (rather inconceivably) five years, all those who bravely take up this text and follow the tenets and trials laid out within will die knowing they were as ninja as they possibly could’ve been. For the true of heart or the extremely lucky, this powerful and honorable manuscript contains such phenomenal ninja wisdom as:</p>
+<ol>
+<li>How to create and name your very own lethal ninja clan</li>
+<li>The proper weapon to use when fighting a vampire pumpkin</li>
+<li>Why clowns and robots are so dangerous on the Internet</li>
+<li>Easy-to-follow charts showing when to slice and when to stab</li>
+<li>How to execute such ultradeadly kicks as the Driving Miss Daisy</li>
+<li>Why pretty much every ninja movie ever made sucks</li>
+<li>How to make a shoggoth explode using well-placed foliage</li>
+<li>What the heck a shoggoth is and why you’ll need to make it explode</li>
+<li>Death Aide certification</li>
+</ol>
+<p>Remember: People do not take the Path, the Path takes people.
+</p></blockquote>
+<p>This book will save your life, even though the front of it says &#8220;This Book Looks Forward to Killing You Soon&#8221;. It will save your life, and help you kill other things! Release your inner Ninja today. </p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/NINJALINK/'>Ninja Link Cloaker.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/PYROGUIDES/'>Make Firework Chemicals For Cheap!</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/K1LLERSALE/'>Underground Ninja Secrets.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-IAmNinjaYouAreNinjaWeAreNinjaBook891.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/_7dPAgT8dXM&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/_7dPAgT8dXM&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/07/18/would-you-like-to-be-a-ninja/" title="Would You Like to be a Ninja?">Would You Like to be a Ninja?</a></li>
+<li><a href="http://chris.pirillo.com/2008/01/08/blog-book-questions/" title="Blog Book Questions">Blog Book Questions</a></li>
+<li><a href="http://chris.pirillo.com/2006/08/13/free-ebook-novel/" title="Free eBook Novel">Free eBook Novel</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/06/i-am-ninja-you-are-ninja-we-are-ninja-book/">I Am Ninja. You Are Ninja. We Are Ninja Book.</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=c47TJV"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=c47TJV" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=rcKDL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=rcKDL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=q7pCl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=q7pCl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/06/i-am-ninja-you-are-ninja-we-are-ninja-book/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-IAmNinjaYouAreNinjaWeAreNinjaBook891.mp4" length="7210255" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-IAmNinjaYouAreNinjaWeAreNinjaBook891.mp4" fileSize="7210255" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>Where Do You Meet Geeks?</title>
+		<link>http://chris.pirillo.com/2008/09/04/where-do-you-meet-geeks/</link>
+		<comments>http://chris.pirillo.com/2008/09/04/where-do-you-meet-geeks/#comments</comments>
+		<pubDate>Thu, 04 Sep 2008 07:04:25 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[Community]]></category>
+
+		<category><![CDATA[geeks]]></category>
+
+		<category><![CDATA[pirillo-geeks]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8071</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+You&amp;#8217;re part of an online community, uploading photos and videos, and just sharing your life in general with other Geeks like you&amp;#8230; right? (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/QOQzd3jSXtY"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/QOQzd3jSXtY" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>You&#8217;re part of an online community, uploading photos and videos, and just sharing your life in general with other Geeks like you&#8230; right? More importantly, you&#8217;re a part of my brand-new <a href="http://geeks.pirillo.com/">Geeks website</a>? Geeks is made for you, and will grow because of you. If you&#8217;re a Geek of ANY kind, this is where you belong. It doesn&#8217;t matter if you are a computer Geek, or a movie Geek, or even a chocolate Geek. What matters is that you are passionate about something. That is what makes you a Geek.</p>
+<p>Geeks is an ad-hoc community. You can create a profile, join or create groups for like-minded individuals, upload pictures and videos, and even blog a bit. There are forum threads, about anything you can think of to write about, or answer. If you go to someone&#8217;s profile page, you&#8217;ll notice they have a different theme than you do. You can choose your style, and colors for everything from text to links. Heck, add your own RSS feeds to your profile, too!</p>
+<p>The only &#8220;rule&#8221; really is to be yourself, and be a good person. Be honest, and have fun. What else would you expect from a Geek site? You have the power to start and manage discussions. You have the chance to become more known around the Web, and even to get to know others. You might be surprised how many new friends you&#8217;ll make in a very short time. </p>
+<p>If you&#8217;re a Geek, or even if you&#8217;re not sure, why not stop by and check us out? Signup is free, and participation is whatever level you are comfortable with. We may even bring to light some of the more interesting threads and things that you share in our nightly newsletter. We even plan to feature someone as the &#8220;member of the day&#8221;! </p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-WhereDoYouMeetGeeks809.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/QOQzd3jSXtY&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/QOQzd3jSXtY&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/09/07/todays-top-five-geeks-posts/" title="Todays&#8217; Top Five Geeks Posts">Todays&#8217; Top Five Geeks Posts</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/do-you-need-community-group-leader-tips/" title="Do You Need Community Group Leader Tips?">Do You Need Community Group Leader Tips?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/06/have-you-ever-been-on-the-cover-of-a-magazine/" title="Have You Ever Been on the Cover of a Magazine?">Have You Ever Been on the Cover of a Magazine?</a></li>
+<li><a href="http://chris.pirillo.com/2008/04/07/what-do-girls-want-for-gifts-from-geeks/" title="What do Girls Want as Gifts from Geeks?">What do Girls Want as Gifts from Geeks?</a></li>
+<li><a href="http://chris.pirillo.com/2008/04/06/twitter-in-live-video/" title="Twitter in Live Video">Twitter in Live Video</a></li>
+<li><a href="http://chris.pirillo.com/2008/03/19/are-geeks-cool/" title="Are Geeks Cool?">Are Geeks Cool?</a></li>
+<li><a href="http://chris.pirillo.com/2008/02/11/how-to-build-an-internet-community/" title="How to Build an Internet Community">How to Build an Internet Community</a></li>
+<li><a href="http://chris.pirillo.com/2008/02/06/dating-geeks/" title="Dating Geeks">Dating Geeks</a></li>
+<li><a href="http://chris.pirillo.com/2008/01/16/be-a-good-youtube-viewer/" title="Be a Good YouTube Viewer">Be a Good YouTube Viewer</a></li>
+<li><a href="http://chris.pirillo.com/2007/10/21/user-generated-contentedness/" title="User Generated Contentedness">User Generated Contentedness</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/04/where-do-you-meet-geeks/">Where Do You Meet Geeks?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=eg9Bq6"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=eg9Bq6" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=UKJimL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=UKJimL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=aZT9wl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=aZT9wl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/04/where-do-you-meet-geeks/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-WhereDoYouMeetGeeks809.mp4" length="11385703" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-WhereDoYouMeetGeeks809.mp4" fileSize="11385703" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>What are Your Google Chrome Web Browser Tips and Tricks?</title>
+		<link>http://chris.pirillo.com/2008/09/03/what-are-your-google-chrome-web-browser-tips-and-tricks/</link>
+		<comments>http://chris.pirillo.com/2008/09/03/what-are-your-google-chrome-web-browser-tips-and-tricks/#comments</comments>
+		<pubDate>Thu, 04 Sep 2008 06:38:38 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[chrome]]></category>
+
+		<category><![CDATA[google]]></category>
+
+		<category><![CDATA[google-chrome]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8067</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+Now that you can download Google Chrome, are you going to switch? (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/sG-98c70GL4"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/sG-98c70GL4" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>Now that you can download <a href="http://google.com/chrome">Google Chrome</a>, are you going to switch? Granted, this is an early version of the browser, based on very solid pieces of technology. Is it enough, in your limited time playing with it? I&#8217;ve been trying to dive deeper and discover features that may not seem to be available on the surface for other power users like myself. I think Google has found a perfect balance between &#8220;power&#8221; users, and &#8220;casual&#8221; users. There are certain things about Chrome that are intuitive, but there&#8217;s also some things that aren&#8217;t as smooth as they could be&#8230; yet. </p>
+<p>I&#8217;ve been running Chrome on both Windows XP and Windows Vista for a few hours now. I&#8217;m sincerely impressed under both circumstances. The feedback I&#8217;m seeing all over the place is very positive. It is fast. The features are excellent. It just works&#8230; and works well. So if you&#8217;re a power user like me, you&#8217;ll like the following tips I&#8217;ve come up with for you. </p>
+<ul>
+<li>If you go to the Omni bar (the address bar) and type in <strong>about:memory</strong>, you&#8217;ll get a browser tab that shows a summary of all the processes running in the browser&#8230; along with running a comparison with any other browsers you may be running at the same time. This will tell you how well it&#8217;s working on your system. There are several different shortcut easter eggs hidden in Chrome. </li>
+<ul>
+<li>about:version</li>
+<li>about:plugins</li>
+<li>about:cache</li>
+<li>about:memory</li>
+<li>about:stats</li>
+<li>about:histograms</li>
+<li>about:dns</li>
+<li>about:network</li>
+<li>about:crash</li>
+<li>about:hang</li>
+<li>about:internets</li>
+<li>about:whenwillthisbeavailableformacosx?!</li>
+</ul>
+<li>If you want to get to the task manager, right click somewhere in the title bar of the window, and go to task manager. (or click Shift+ESC while the browser is open) You&#8217;ll see the open tabs you have at the time, as well as if you have any plugins that are running (such as Flash app or ShockWave app). If you have a runaway app, you can select it and end its process. They&#8217;ve separated that, to keep you from having to shut down your entire browser. </li>
+<li>You know I like to click on just about everything I see inside a Web browser. Let&#8217;s say I&#8217;m on FriendFeed, and see that someone has made a FF Room. Maybe I want to surf that room, but I don&#8217;t want anything I see or do to be tracked. I can open an &#8220;Incognito&#8221; window. Then, everything I do in that browser instance is going to be private.</li>
+<li>If you do a search for something (like Chris), you can see recent pages in &#8220;History&#8221;, containing your word(s). It not only saves text of your history, it also saves thumbnails of each page you&#8217;ve visited. </li>
+<li>There are many awesome <a href="http://www.google.com/support/chrome/bin/answer.py?answer=95743">keyboard shortcuts</a> for Chrome. This includes shortcuts for everything from opening a new tab, to opening a file on your computer from within Chrome. </li>
+</ul>
+<p>Needless to say, Chrome is certainly worth downloading. I think that it will be most difficult to convince FireFox users to switch, because they are used to the Plugins and Extensions. Just download Chrome and try it. Go to websites you normally do, and see how much faster they load for you. That will make the decision for you.  </p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-WhatAreYourGoogleChromeWebBrowserTipsAndTricks259.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/sG-98c70GL4&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/sG-98c70GL4&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/09/03/do-you-think-google-chrome-is-just-another-web-browser/" title="Do You Think Google Chrome is Just Another Web Browser?">Do You Think Google Chrome is Just Another Web Browser?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/03/will-google-chrome-change-the-web-world/" title="Will Google Chrome Change the Web World?">Will Google Chrome Change the Web World?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/should-search-engines-be-community-driven/" title="Should Search Engines be Community Driven?">Should Search Engines be Community Driven?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/01/cuil-a-first-look/" title="Cuil - A First Look">Cuil - A First Look</a></li>
+<li><a href="http://chris.pirillo.com/2008/07/09/google-lively-vr-chat-reviews/" title="Google Lively VR Chat Reviews">Google Lively VR Chat Reviews</a></li>
+<li><a href="http://chris.pirillo.com/2008/07/06/is-this-the-worlds-best-metasearch-site/" title="Is This the World&#8217;s Best Metasearch Site?">Is This the World&#8217;s Best Metasearch Site?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/24/have-you-tried-the-google-open-source-android-emulator/" title="Have you Tried the Google Open Source Android Emulator?">Have you Tried the Google Open Source Android Emulator?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/10/do-you-use-gmails-new-features/" title="Do you use Gmail&#8217;s New Features?">Do you use Gmail&#8217;s New Features?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/05/upload-digital-photos-to-web-albums-for-free/" title="Upload Digital Photos to Web Albums for Free!">Upload Digital Photos to Web Albums for Free!</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/05/does-google-have-a-command-line-interface/" title="Does Google have a Command Line Interface?">Does Google have a Command Line Interface?</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/03/what-are-your-google-chrome-web-browser-tips-and-tricks/">What are Your Google Chrome Web Browser Tips and Tricks?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=JJmYdQ"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=JJmYdQ" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=3KKWiL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=3KKWiL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=vhhfgl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=vhhfgl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/03/what-are-your-google-chrome-web-browser-tips-and-tricks/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-WhatAreYourGoogleChromeWebBrowserTipsAndTricks259.mp4" length="15185354" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-WhatAreYourGoogleChromeWebBrowserTipsAndTricks259.mp4" fileSize="15185354" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>Do You Think Google Chrome is Just Another Web Browser?</title>
+		<link>http://chris.pirillo.com/2008/09/03/do-you-think-google-chrome-is-just-another-web-browser/</link>
+		<comments>http://chris.pirillo.com/2008/09/03/do-you-think-google-chrome-is-just-another-web-browser/#comments</comments>
+		<pubDate>Thu, 04 Sep 2008 06:17:33 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[chrome]]></category>
+
+		<category><![CDATA[google]]></category>
+
+		<category><![CDATA[google-chrome]]></category>
+
+		<category><![CDATA[javascript]]></category>
+
+		<category><![CDATA[phishing]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8065</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+In a few short hours from the time this was recorded, we all had our hands on Google Chrome. (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/7R7sOeX3tsE"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/7R7sOeX3tsE" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>In a few short hours from the time this was recorded, we all had our hands on Google Chrome. I feel this is a game changer in the way the World Wide Web works. I made up a list of five reasons that Chrome will soon become your default browser. You know Google, from Docs to AdSense to Earth. Google is here, and it&#8217;s a strong presence on the Web. Let&#8217;s look at the reasons I came up with:</p>
+<ul>
+<li><strong>Google is focused on user experience.</strong> The experience is having a browser that does what you want it to do&#8230; browse the Web. Many developers don&#8217;t even think about that. I&#8217;m sure you have Google in your browser already, whether it&#8217;s a toolbar or your home page. Google has already shown us how they are focused on the users&#8230; YOU. Read the comic book documentation. It outlines for you why it&#8217;s pinpointing user experience, and what that means for you. </li>
+<li><strong>It&#8217;s open source.</strong> You can take the code if you wanted to, and build your own browser. Take it and make it your own. The fact that it is open source is very telling. Google knows it is not in their best interest to lock the code away in proprietary measures. Chrome is open source because they are trying to make the Web better for everyone.</li>
+<li><strong>Speed.</strong> Google has based Chrome on WebKit, which is optimized for speed. Google&#8217;s also developed a JavaScript engine to further enhance your browsing speed experience. You know how sometimes your entire browser will freeze occasionally, because of one site? With Chrome, that doesn&#8217;t happen, due to the way the JavaScript runs. Each tab is run as a separate process, instead of the browser as a whole.</li>
+<li><strong>It will be cross platform soon. </strong> It is being released for Windows first, but will be available for OS X and Linux soon. </li>
+<li><strong>Security. </strong> This is a big one. Google thought about the security model, all the way down to stop any kind of Phishing attacks within the browser. It&#8217;s constantly going to be updated with the latest Phishing information. Google Chrome also helps you to only log onto secure SSL connections whenever possible, and will warn you if the site you&#8217;re connected to is not secure. </li>
+</ul>
+<p>Those are the five reasons I feel you need to pay attention to Google Chrome. Even if you think you aren&#8217;t ready to switch your browser, why not give it a try? You never know what you&#8217;re missing until you check it out. </p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/JOBKILL101/'>Day Job Killer Presents... The Google Assassin.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/BRYXEN1/'>Seo Elite: New Seo Software!</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/RSPANISH/'>Rocket Spanish! *New* Higher Payout!</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-DoYouThinkGoogleChromeIsJustAnotherWebBrowser335.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/7R7sOeX3tsE&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/7R7sOeX3tsE&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/09/03/what-are-your-google-chrome-web-browser-tips-and-tricks/" title="What are Your Google Chrome Web Browser Tips and Tricks?">What are Your Google Chrome Web Browser Tips and Tricks?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/03/will-google-chrome-change-the-web-world/" title="Will Google Chrome Change the Web World?">Will Google Chrome Change the Web World?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/should-search-engines-be-community-driven/" title="Should Search Engines be Community Driven?">Should Search Engines be Community Driven?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/01/cuil-a-first-look/" title="Cuil - A First Look">Cuil - A First Look</a></li>
+<li><a href="http://chris.pirillo.com/2008/07/09/google-lively-vr-chat-reviews/" title="Google Lively VR Chat Reviews">Google Lively VR Chat Reviews</a></li>
+<li><a href="http://chris.pirillo.com/2008/07/06/is-this-the-worlds-best-metasearch-site/" title="Is This the World&#8217;s Best Metasearch Site?">Is This the World&#8217;s Best Metasearch Site?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/24/have-you-tried-the-google-open-source-android-emulator/" title="Have you Tried the Google Open Source Android Emulator?">Have you Tried the Google Open Source Android Emulator?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/10/do-you-use-gmails-new-features/" title="Do you use Gmail&#8217;s New Features?">Do you use Gmail&#8217;s New Features?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/05/upload-digital-photos-to-web-albums-for-free/" title="Upload Digital Photos to Web Albums for Free!">Upload Digital Photos to Web Albums for Free!</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/05/does-google-have-a-command-line-interface/" title="Does Google have a Command Line Interface?">Does Google have a Command Line Interface?</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/03/do-you-think-google-chrome-is-just-another-web-browser/">Do You Think Google Chrome is Just Another Web Browser?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=B3i5nW"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=B3i5nW" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=oeBimL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=oeBimL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=VBsgdl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=VBsgdl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/03/do-you-think-google-chrome-is-just-another-web-browser/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-DoYouThinkGoogleChromeIsJustAnotherWebBrowser335.mp4" length="14924473" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-DoYouThinkGoogleChromeIsJustAnotherWebBrowser335.mp4" fileSize="14924473" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>Will Google Chrome Change the Web World?</title>
+		<link>http://chris.pirillo.com/2008/09/03/will-google-chrome-change-the-web-world/</link>
+		<comments>http://chris.pirillo.com/2008/09/03/will-google-chrome-change-the-web-world/#comments</comments>
+		<pubDate>Thu, 04 Sep 2008 05:12:35 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[chrome]]></category>
+
+		<category><![CDATA[google]]></category>
+
+		<category><![CDATA[google-chrome]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8063</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+Yes, I remember Netscape, and I never liked it. I also remember when Safari was made. (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/-Vkq3K3kJtA"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/-Vkq3K3kJtA" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>Yes, I remember Netscape, and I never liked it. I also remember when Safari was made. Fast forward to today&#8230; and we now have <a href="http://www.google.com/chrome">Google Chrome</a>. This is going to be Google&#8217;s Web browser offering to the World. </p>
+<blockquote><p>
+In Google Chrome, you can get anywhere on the Web with one box. The address bar that sits at the top of the normal Google Chrome window simplifies your Internet experience by doubling as a search box. You can also use it to bookmark websites and stay aware about the security of a website.
+</p></blockquote>
+<p>As of the time of this recording on September 2nd, 2008, it hasn&#8217;t been officially released. Google had released documentation earlier in the day today, and people were taken aback, wondering if it was real. Google posted a <a href="http://books.google.com/books?id=8UsqHohwwVYC&#038;printsec=frontcover#PPA38,M1">comic book type of explanation</a> about Chrome. If every &#8220;read me&#8221; file would be done in this fashion, people would actually read them. I read the entire thing! The main drawback so far is that it&#8217;s only available for Windows at this point, and not OS X or Linux. </p>
+<p>Google Chrome is based on <a href="http://webkit.org/">WebKit</a>. Why is that important? Not only do pages look good, but they load fast. Google has gone in and optimized the way pages run, and load, and are managed. You know how you may have a few browser windows open, and one of them freezes&#8230; causing your whole browser to &#8216;crash&#8217; or freeze? Google has taken care of that problem with Chrome. </p>
+<p>You&#8217;re going to appreciate what Google has done, and why this will be a much better Web browser for you. If what they claim in the promotional information is remotely true, this is a complete reinvention of the Web browser as we know it. You&#8217;ll find out what forethought went into how the security model worked, how the page management and rendering worked, and how all a Web browser can handle all the new technologies there are. Google has potentially moved the entire industry forward by releasing Google Chrome. </p>
+<p>My only hope and wish is that the User Interface is not a Google UI. As far as the Web is concerned, they&#8217;ve done a great job. However, they have fallen short with the UI in their applications. I have yet to try it myself, as I use OS X. However, I will be having Ponzi run this on her Windows machine, and get her feedback on it. Ponzi is very picky about things like her browser, so she&#8217;ll be brutally honest&#8230; good or bad. </p>
+<p>What are your thoughts? Are you using Google Chrome yet? If so, what do you think so far? If you&#8217;re not&#8230; what are you waiting for?!</p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/NBROWSER/'>Jason Profit Moffatts Niche Browser.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/BUDDY1980/'>Buddy Browser - Safe, Educational And Fun Browser For Children.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/STIQMO/'>Stiqmo Mobile Desktop.</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-WillGoogleChromeChangeTheWebWorld840.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/-Vkq3K3kJtA&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/-Vkq3K3kJtA&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/09/03/what-are-your-google-chrome-web-browser-tips-and-tricks/" title="What are Your Google Chrome Web Browser Tips and Tricks?">What are Your Google Chrome Web Browser Tips and Tricks?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/03/do-you-think-google-chrome-is-just-another-web-browser/" title="Do You Think Google Chrome is Just Another Web Browser?">Do You Think Google Chrome is Just Another Web Browser?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/07/should-search-engines-be-community-driven/" title="Should Search Engines be Community Driven?">Should Search Engines be Community Driven?</a></li>
+<li><a href="http://chris.pirillo.com/2008/09/01/cuil-a-first-look/" title="Cuil - A First Look">Cuil - A First Look</a></li>
+<li><a href="http://chris.pirillo.com/2008/07/09/google-lively-vr-chat-reviews/" title="Google Lively VR Chat Reviews">Google Lively VR Chat Reviews</a></li>
+<li><a href="http://chris.pirillo.com/2008/07/06/is-this-the-worlds-best-metasearch-site/" title="Is This the World&#8217;s Best Metasearch Site?">Is This the World&#8217;s Best Metasearch Site?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/24/have-you-tried-the-google-open-source-android-emulator/" title="Have you Tried the Google Open Source Android Emulator?">Have you Tried the Google Open Source Android Emulator?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/10/do-you-use-gmails-new-features/" title="Do you use Gmail&#8217;s New Features?">Do you use Gmail&#8217;s New Features?</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/05/upload-digital-photos-to-web-albums-for-free/" title="Upload Digital Photos to Web Albums for Free!">Upload Digital Photos to Web Albums for Free!</a></li>
+<li><a href="http://chris.pirillo.com/2008/06/05/does-google-have-a-command-line-interface/" title="Does Google have a Command Line Interface?">Does Google have a Command Line Interface?</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/03/will-google-chrome-change-the-web-world/">Will Google Chrome Change the Web World?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=nolSvq"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=nolSvq" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=yQbEXL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=yQbEXL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=RYZh4l"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=RYZh4l" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/03/will-google-chrome-change-the-web-world/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-WillGoogleChromeChangeTheWebWorld840.mp4" length="13863086" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-WillGoogleChromeChangeTheWebWorld840.mp4" fileSize="13863086" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+		<item>
+		<title>Are You Also Addicted to LEGO?</title>
+		<link>http://chris.pirillo.com/2008/09/01/are-you-also-addicted-to-lego/</link>
+		<comments>http://chris.pirillo.com/2008/09/01/are-you-also-addicted-to-lego/#comments</comments>
+		<pubDate>Tue, 02 Sep 2008 05:34:17 +0000</pubDate>
+		<dc:creator>chris@pirillo.com (Chris Pirillo)</dc:creator>
+		
+		<category><![CDATA[Media Blog]]></category>
+
+		<category><![CDATA[lego]]></category>
+
+		<category><![CDATA[star-destroyer]]></category>
+
+		<category><![CDATA[star-wars]]></category>
+
+		<guid isPermaLink="false">http://chris.pirillo.com/?p=8054</guid>
+		<description>Add to iTunes &amp;#124; Add to YouTube &amp;#124; Add to Google &amp;#124; RSS Feed
+Yep, this is a LEGO Star Destroyer space craft I just finished building. Isn&amp;#8217;t it just gorgeous? (...)</description>
+			<content:encoded><![CDATA[<p><object width="325" height="264"><param name="movie" value="http://www.youtube.com/v/wy---Ub8cB8"><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/wy---Ub8cB8" type="application/x-shockwave-flash" wmode="transparent" width="325" height="264"></embed></object><br />
+<a href="itms://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=73330048">Add to iTunes</a> | <a href="http://youtube.com/subscription_center?add_user=lockergnome">Add to YouTube</a> | <a href="http://fusion.google.com/add?feedurl=http://feeds.pirillo.com/ChrisPirillo">Add to Google</a> | <a href="http://feeds.pirillo.com/ChrisPirillo">RSS Feed</a></p>
+<p>Yep, this is a <a href="http://www.amazon.com/exec/obidos/ASIN/B000ELIX5Y/lockergnome">LEGO Star Destroyer</a> space craft I just finished building. Isn&#8217;t it just gorgeous? Datalore gave me this kit as a gift when he visited the US recently for the <a href="http://www.gnomedex.com/" title="Technology Conference" class="alinks_links" target="_blank" rev="Gnomedex">Gnomedex</a> conference. I was super excited, because I would likely never have bought it for myself. I&#8217;ve never even truly had a LEGO kit before. I had some LEGO blocks, sure. But I was such a deprived child. I had a Star Destroyer, but it wasn&#8217;t something I built myself. </p>
+<blockquote><p>
+Build the most awesome ship in the Star Wars universe! The Imperial Star Destroyer is the massively huge, incredibly powerful heart of the Emperor&#8217;s fleet. Manned by the top crew in the Imperial Navy, the Star Destroyer was heavily armored and bristling with turbolasers and tractor beam projectors. One Star Destroyer alone was enough to strike fear into an entire star system!</p>
+<p>Now you can add the Imperial Navy&#8217;s best-known and most powerful ship to your LEGO Star Wars collection! Measuring an impressive 37” by 23”, this model dwarfs any LEGO Star Wars ship ever produced. This beautifully designed and one-of-a-kind collector&#8217;s item comes with a special display stand and collectors card. Also includes an exclusive Rebel Blockade Runner Mini-Model, so you can recreate the opening scenes of Star Wars IV: A New Hope!
+</p></blockquote>
+<p>So I&#8217;ve had the kit for about two weeks now, and it was just sitting in my office. I&#8217;ve been busy, you know! I was feeling stressed out last night, so I grabbed the box and started building. I worked for hours, until I couldn&#8217;t see straight anymore. I slept for awhile&#8230; then I was up and at it again. Building this was addictive to me, and almost an obsession to finish it. </p>
+<p>I&#8217;m very happy with what I created. It&#8217;s insanely cool. I didn&#8217;t have LEGO Star Wars growing up, because they didn&#8217;t even have them. You&#8217;re never too old for LEGO bricks, nor too old for Star Wars. Not only did I have fun doing this, it was also a great stress reliever. I think I&#8217;ll end up putting it up on top of my hutch, with the back facing out. I mean, really. Isn&#8217;t that just a gorgeous rear end on this ship?!</p>
+<p>The other reason I bring this up, is that building LEGO kits can honestly be a bonding experience. It&#8217;s something good for a parent to do with a child, or even a grandparent with a grandchild. The sense of accomplishment I have right now is just huge. That is something you can share with a child, once you&#8217;ve had a great time building it. Spending the time working on a craft project like this can also pave the way to opening conversations you might not otherwise have had. </p>
+<p>Why grow up? You&#8217;re never too old to indulge your inner child and play. </p>
+<p>
+<!-- FirstRSS -->
+
+	<ul>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/DAGSSE58/'>101 Easy Craft Project Ideas.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/QUILLING7/'>Super Affiliates $$$: Very High Conversions With Quilling Magic.</a></li>
+	<li style='margin-bottom:15px'><a rel='nofollow' href='http://shop.tagjag.com/cb/lockergn/CRAFTS1/'>Fun Kids Crafts - Newly Released!</a></li>
+
+	</ul>
+</p>
+<p>Want to embed this video on your own site, blog, or forum? Use this code or <a href="http://blip.tv/file/get/L0ckergn0me-AreYouAlsoAddictedToLEGO202.mp4">download the video</a>: </p>
+<p><textarea style="width: 460px; height:60px;">&#60;object width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/wy&#8212;Ub8cB8&#34;&#62;&#60;/param&#62;&#60;param name=&#34;wmode&#34; value=&#34;transparent&#34;&#62;&#60;/param&#62;&#60;embed src=&#34;http://www.youtube.com/v/wy&#8212;Ub8cB8&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;350&#34;&#62;&#60;/embed&#62;&#60;/object&#62;&#60;br /&#62;&#60;a href=&#34;http://chris.pirillo.com/&#34;&#62;Chris&#60;/a&#62; | &#60;a href=&#34;http://live.pirillo.com/&#34;&#62;Live Tech Support&#60;/a&#62; | &#60;a href=&#34;http://media.pirillo.com/&#34;&#62;Video Help&#60;/a&#62; | &#60;a href=&#34;http://feeds.pirillo.com/ChrisPirilloShow&#34;&#62;Add to iTunes&#60;/a&#62;</textarea></p>
+<ul class="related_post">
+<li><a href="http://chris.pirillo.com/2008/08/15/are-you-creating-a-star-wars-fan-film-video/" title="Are You Creating a Star Wars Fan Film Video?">Are You Creating a Star Wars Fan Film Video?</a></li>
+<li><a href="http://chris.pirillo.com/2008/08/11/do-you-enjoy-brickfilm/" title="Do You Enjoy Brickfilm?">Do You Enjoy Brickfilm?</a></li>
+<li><a href="http://chris.pirillo.com/2008/05/22/mac-vs-pc-lego-brickfilming/" title="Mac vs PC: LEGO Brickfilming">Mac vs PC: LEGO Brickfilming</a></li>
+<li><a href="http://chris.pirillo.com/2008/02/27/luke-skywalker-wants-a-wii/" title="Luke Skywalker Wants a Wii">Luke Skywalker Wants a Wii</a></li>
+<li><a href="http://chris.pirillo.com/2007/11/21/lego-block-building-software/" title="LEGO Block Building Software">LEGO Block Building Software</a></li>
+<li><a href="http://chris.pirillo.com/2007/10/28/star-wars-has-gone-to-the-dogs/" title="Star Wars Has Gone to the Dogs">Star Wars Has Gone to the Dogs</a></li>
+<li><a href="http://chris.pirillo.com/2007/10/04/dont-be-a-vader-hater/" title="Don&#8217;t Be a Vader Hater">Don&#8217;t Be a Vader Hater</a></li>
+<li><a href="http://chris.pirillo.com/2007/08/30/droid-maker-by-michael-rubin/" title="Droid Maker by Michael Rubin">Droid Maker by Michael Rubin</a></li>
+<li><a href="http://chris.pirillo.com/2007/06/12/draw-or-draw-not/" title="Draw or Draw Not">Draw or Draw Not</a></li>
+<li><a href="http://chris.pirillo.com/2007/02/20/the-politics-of-star-wars/" title="The Politics of Star Wars">The Politics of Star Wars</a></li>
+</ul>
+<p>a</p>
+<p><a href="http://chris.pirillo.com/2008/09/01/are-you-also-addicted-to-lego/">Are You Also Addicted to LEGO?</a></p>
+
+<p><a href="http://feeds.pirillo.com/~a/ChrisPirilloShow?a=hDJJDC"><img src="http://feeds.pirillo.com/~a/ChrisPirilloShow?i=hDJJDC" border="0"></img></a></p><div class="feedflare">
+<a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=zTHnwL"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=zTHnwL" border="0"></img></a> <a href="http://feeds.pirillo.com/~f/ChrisPirilloShow?a=yotNsl"><img src="http://feeds.pirillo.com/~f/ChrisPirilloShow?i=yotNsl" border="0"></img></a>
+</div>]]></content:encoded>
+			<wfw:commentRss>http://chris.pirillo.com/2008/09/01/are-you-also-addicted-to-lego/feed/</wfw:commentRss>
+<enclosure url="http://blip.tv/file/get/L0ckergn0me-AreYouAlsoAddictedToLEGO202.mp4" length="11535371" type="video/mp4" />
+		<media:content url="http://blip.tv/file/get/L0ckergn0me-AreYouAlsoAddictedToLEGO202.mp4" fileSize="11535371" type="video/mp4" /><itunes:explicit>no</itunes:explicit><itunes:subtitle>Free Tech Support</itunes:subtitle><itunes:author>Chris Pirillo</itunes:author><itunes:summary>Geek, Internet Entrepreneur, Hardware Addict, Software Junkie, Book Author, Once TV Show Host, Technology Enthusiast, Shameless Self-Promoter, Tech Conference Coordinator, Early Adopter, Idea Evangelist, Tech Support Blogger, Bootstrapper, Media Personality, Technology Consultant, Thicker Quicker Picker Upper.</itunes:summary><itunes:keywords>tech,technology,software,hardware,download,windows,apple,tech,support,help,techtv,twit</itunes:keywords></item>
+	<media:credit role="author">Chris Pirillo</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Free Tech Support</media:description></channel>
+</rss><!-- Dynamic Page Served (once) in 1.779 seconds --><!-- Cached page served by WP-Cache -->
