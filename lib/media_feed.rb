@@ -103,7 +103,12 @@ private
 
     @items = items.inject([]) do |result,node|
       item = parse_item(node)
-      result << item if item.is_after?(@last_date)
+      if !item.valid? # invalid items shouldn't be added to feed but shouldn't stop the rest of the feed
+        puts "Faulty item in the feed - not loaded : "
+        puts item.to_s
+      else
+        result << item if item.is_after?(@last_date)
+      end
       result
     end
   end
@@ -130,8 +135,6 @@ private
     
     # pubDate if not filled in by feed -> first (valid) one is probably most recent
     @pubDate = item.pubDate.rfc2822 if @pubDate.nil? && item.pubDate
-    
-    raise InvalidMediaItem unless item.valid?
     item
   end
 
