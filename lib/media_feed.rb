@@ -88,8 +88,14 @@ private
     raise FeedNotFound
   end
   
+  # for some strange reason, the xml parsing by libxml stumbles over & symbols.  cute.
+  def preprocess(doc)
+    doc.gsub!(/&/,'&amp;')
+    doc
+  end
+  
   def parse_feed(doc)
-    all_nodes = parse_document(doc)
+    all_nodes = parse_document(preprocess(doc))
     channel = all_nodes[0]
     @title = content(channel,'title')
     @description = content(channel,'description')
