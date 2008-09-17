@@ -18,5 +18,5 @@ Gem::Specification.new do |spec|
                      'spec/feeds/NASAcast_vodcast',
                      'spec/feeds/tedtalks_video',
                      'spec/feeds/diggnation']
-  spec.add_dependency('libxml-ruby',["> 0.0.0"])
+  spec.add_dependency('libxml-ruby',["> 0.0.0"]) 
 end
