@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.homepage = 'http://github.com/elisehuard/media_feed'
 
   spec.name = 'media_feed'
-  spec.version = '0.0.2'
+  spec.version = '0.0.3'
   spec.date = "11-09-2008"
 
   spec.has_rdoc = true
