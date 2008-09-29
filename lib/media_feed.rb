@@ -44,6 +44,8 @@ end
 class Feed
   include(LibXML)
   
+  MEDIA_RSS_NAMESPACE = 'media:http://search.yahoo.com/mrss'
+  
   attr_reader :title, :description, :thumbnail, :pubDate, :items
 
   # Feed is initialized with a valid url for the feed itself.
@@ -99,7 +101,7 @@ private
     channel = all_nodes[0]
     @title = content(channel,'title')
     @description = content(channel,'description')
-    @thumbnail = content(channel,'image/url')
+    @thumbnail = content(channel,'image/url') || content(channel,'media:thumbnail')
     @pubDate = content(channel,'pubDate')
     if @pubDate && @last_date
       feed_pub_date = parse_date(@pubDate)
@@ -107,6 +109,7 @@ private
     end
     items = channel.find('//item')
 
+    item_pubDate = nil # latest item date
     @items = items.inject([]) do |result,node|
       item = parse_item(node)
       if !item.valid? # invalid items shouldn't be added to feed but shouldn't stop the rest of the feed
@@ -114,9 +117,11 @@ private
         puts item.to_s
       else
         result << item if item.is_after?(@last_date)
+        item_pubDate = item.pubDate if !item.pubDate.nil? && (item_pubDate.nil? || item.pubDate > item_pubDate)
       end
       result
     end
+    @pubDate = item_pubDate if @pubDate.nil?
   end
 
   def parse_document(doc)
@@ -137,7 +142,9 @@ private
     item.enclosure = url(node,'enclosure') || url(node,'media:content') || content(node,'guid')
     date = content(node,'pubDate')
     item.pubDate = parse_date(date) if date && !date.empty?
-    item.thumbnail = content(node,'image/url')
+    item.thumbnail = content(node,'image/url') || content(node,'media:thumbnail')
+    keywords = content(node,'media:keywords')
+    item.keywords = keywords.gsub(/ */,'').split(',') if keywords
     
     # pubDate if not filled in by feed -> first (valid) one is probably most recent
     @pubDate = item.pubDate.rfc2822 if @pubDate.nil? && item.pubDate
@@ -145,12 +152,13 @@ private
   end
 
   def content(parent_node,xpath)
-    parent_node.find(xpath)[0].content if parent_node.find(xpath) && parent_node.find(xpath)[0]
+    result_xpath = parent_node.find(xpath,MEDIA_RSS_NAMESPACE)
+    result_xpath[0].content if result_xpath && result_xpath[0]
   end
   
   def url(parent_node,xpath)
-    # ,['media:http://search.yahoo.com/mrss']
-    parent_node.find(xpath)[0]['url'] if parent_node.find(xpath) && parent_node.find(xpath)[0]
+    result_xpath = parent_node.find(xpath,MEDIA_RSS_NAMESPACE)
+    result_xpath[0]['url'] if result_xpath && result_xpath[0]
   end
   
   # date string should be in rfc2822 format ex. Sat, 06 Sep 2008 11:59:15 +0000
@@ -163,7 +171,7 @@ private
 end
 
 class Item
-  attr_accessor :title, :description, :link, :pubDate, :enclosure, :thumbnail
+  attr_accessor :title, :description, :link, :pubDate, :enclosure, :thumbnail, :keywords
   
   def valid?
     if title.nil? || link.nil? || enclosure.nil?

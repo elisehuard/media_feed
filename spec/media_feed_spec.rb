@@ -83,9 +83,9 @@ describe MediaFeed::Feed, '.fetch_since' do
     feed.fetch
     date = feed.pubDate
     feed2 = MediaFeed::Feed.new('http://feeds.feedburner.com/tedtalks_video')
-    feed.stubs(:get_feed).returns(stub_response('tedtalks_video'))
+    feed2.stubs(:get_feed).returns(stub_response('tedtalks_video'))
     feed2.fetch_since(date)
-    feed2.items.should be_nil
+    feed2.items.should have(0).items
   end
   
   it 'should only fetch the items that are new since last fetch if last date is given' do
